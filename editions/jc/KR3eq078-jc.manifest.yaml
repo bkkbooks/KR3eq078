@@ -1,0 +1,403 @@
+canonical_identifier: bkk:krp/KR3eq078/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq078/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃氏醫話
+  identifiers:
+    krp: KR3eq078
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq078.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq078_000-jc.yaml, hash: 'sha256:862936ab662f1a67c696a0d1acde6b9e9243d90deb41f61e60fc435a8c2df0a2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq078_000-jc.markers.yaml, hash: 'sha256:9c57c37c1520933361e26f4360346f91e78a4dd333211b0833ce2527600c06c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 929
+  label: 弁言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d3.h1s1
+    span:
+    - body
+    - 929
+    - 1965
+  label: 答客問
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4.h1s1
+    span:
+    - body
+    - 1965
+    - 24037
+  label: 黃氏醫話
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d2
+    span:
+    - body
+    - 1969
+    - 2236
+  label: 荒郊入睡風寒絡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d3
+    span:
+    - body
+    - 2236
+    - 3038
+  label: 服活絡丹不復活
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d4
+    span:
+    - body
+    - 3038
+    - 4786
+  label: 妊娠期內腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d5
+    span:
+    - body
+    - 4786
+    - 5495
+  label: 筋絡受損兩臂傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d6
+    span:
+    - body
+    - 5495
+    - 7401
+  label: 識肝病引火歸原
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d7
+    span:
+    - body
+    - 7401
+    - 8242
+  label: 傴僂顴赤應手愈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d8
+    span:
+    - body
+    - 8242
+    - 8852
+  label: 哭聲驚午夢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d9
+    span:
+    - body
+    - 8852
+    - 9709
+  label: 病體多勞終受損
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d10
+    span:
+    - body
+    - 9709
+    - 10206
+  label: 推拿奈何用蠻力
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d11
+    span:
+    - body
+    - 10206
+    - 10505
+  label: 風邪盡去久咳止
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d12
+    span:
+    - body
+    - 10505
+    - 11142
+  label: 多投補劑致病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d13
+    span:
+    - body
+    - 11142
+    - 11704
+  label: 反胃症霍然而愈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d14
+    span:
+    - body
+    - 11704
+    - 13270
+  label: 大腹便便非受孕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d15
+    span:
+    - body
+    - 13270
+    - 13608
+  label: 中風得痊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d16
+    span:
+    - body
+    - 13608
+    - 13767
+  label: 胃下垂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d17
+    span:
+    - body
+    - 13767
+    - 14946
+  label: 每日吐痰升許
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d18
+    span:
+    - body
+    - 14946
+    - 15577
+  label: 病室內高宣佛號
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d19
+    span:
+    - body
+    - 15577
+    - 16075
+  label: 五更泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d20
+    span:
+    - body
+    - 16075
+    - 16408
+  label: 大啖豚蹄患便血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d21
+    span:
+    - body
+    - 16408
+    - 17048
+  label: 失眠與思睡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d22
+    span:
+    - body
+    - 17048
+    - 17239
+  label: 重痢獲治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d23
+    span:
+    - body
+    - 17239
+    - 17464
+  label: 推治三日步履如常
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d24
+    span:
+    - body
+    - 17464
+    - 18132
+  label: 馳馬墜地腰部起塊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d25
+    span:
+    - body
+    - 18132
+    - 18297
+  label: 胃病不宜多服藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d26
+    span:
+    - body
+    - 18297
+    - 18743
+  label: 體已多痰猶進補
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d27
+    span:
+    - body
+    - 18743
+    - 18974
+  label: 飲食不進大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d28
+    span:
+    - body
+    - 18974
+    - 19209
+  label: 脈象已敗不可治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d29
+    span:
+    - body
+    - 19209
+    - 19833
+  label: 葆愛過度小孩成病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d30
+    span:
+    - body
+    - 19833
+    - 20100
+  label: 腎病勞動致變
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d31
+    span:
+    - body
+    - 20100
+    - 20322
+  label: 開刀不慎成痼疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d32
+    span:
+    - body
+    - 20322
+    - 20506
+  label: 右手不能執箸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d33
+    span:
+    - body
+    - 20506
+    - 20857
+  label: 遍身起紅塊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d34
+    span:
+    - body
+    - 20857
+    - 21848
+  label: 兩腿拘攣臥不安
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d35
+    span:
+    - body
+    - 21848
+    - 22070
+  label: 一指呈功消腹脹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq078_jc_000-d4d36
+    span:
+    - body
+    - 22070
+    - 24037
+  label: 肝陽挾濕
+  type: section
+  level: 2
+hash: sha256:8e84a32b158537a0297de7db291c4d272453743f0386041a8be453032977d952
