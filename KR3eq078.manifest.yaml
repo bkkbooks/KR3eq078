@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq078_000.yaml, hash: 'sha256:764b9bc650d068fa11aaba8723c561e54c6622a37ba682676f9e32d2fd35dad4'}
+  - {seq: 0, filename: KR3eq078_000.yaml, hash: 'sha256:862936ab662f1a67c696a0d1acde6b9e9243d90deb41f61e60fc435a8c2df0a2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq078_000.markers.yaml, hash: 'sha256:09dc0bbd4746286f39cb77f016dd7597d2bd23a9a44d72ce7e5543e724da9aa6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq078_000.markers.yaml, hash: 'sha256:6764d471cea86d15e0ad399a269cd91e0deea493dbfffd597070d82d17ce7c92'}
 table_of_contents:
 - ref:
     seq: 0
@@ -400,7 +400,4 @@ table_of_contents:
   label: 肝陽挾濕
   type: section
   level: 2
-hash: sha256:c43a434348b629bcc3891978ed3b08ceaa672cfc0a29c83e169d9355c64a4387
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fe3416c89dd99061866167a1624d47dfc42dfb1c9a31e2d85d2e9f5d72d400d0
