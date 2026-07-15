@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq078/v1
 canonical_location: https://kanripo.org/bkk/KR3eq078/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 黃氏醫話
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq078_000.yaml, hash: 'sha256:862936ab662f1a67c696a0d1acde6b9e9243d90deb41f61e60fc435a8c2df0a2'}
+  - {seq: 0, filename: KR3eq078_000.yaml, hash: 'sha256:880a44b42bba61c43435eee35ae646d468f561a51e04c39659725c0f2c7ee900'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq078_000.markers.yaml, hash: 'sha256:6764d471cea86d15e0ad399a269cd91e0deea493dbfffd597070d82d17ce7c92'}
+  - {seq: 0, role: markers, filename: assets/KR3eq078_000.markers.yaml, hash: 'sha256:577bae39b1a6558ba07aa4ce3c55bd289c3a2d010cba6fdc9c822cb64ddbdf1d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -400,4 +400,7 @@ table_of_contents:
   label: 肝陽挾濕
   type: section
   level: 2
-hash: sha256:fe3416c89dd99061866167a1624d47dfc42dfb1c9a31e2d85d2e9f5d72d400d0
+hash: sha256:0f1080309f36414ce23303fb8626a6910fe7784f1cdf57434e6c3f5dd89cb636
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
